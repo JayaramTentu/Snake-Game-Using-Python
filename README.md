@@ -6,7 +6,25 @@ This design creates an interactive, continuous play Snake game with simple yet e
 
 
 
-    # Game Area Setup:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     # Game Area Setup:
     
     The game window is a 500x500-pixel square with a black background.
     The snake moves within the boundaries, but the design allows for screen wrapping—when the snake exits one side of the screen, it reappears on the opposite side, creating a continuous movement environment.
