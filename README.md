@@ -30,7 +30,7 @@ This design creates an interactive, continuous play Snake game with simple yet e
     The function food_collision handles detecting when the snake eats the food.
 
 
-https://github.com/user-attachments/assets/63c64879-e319-4858-afe5-25f61e694b94
+       https://github.com/user-attachments/assets/63c64879-e319-4858-afe5-25f61e694b94
 
 
     
