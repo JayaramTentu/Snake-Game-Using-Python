@@ -5,7 +5,10 @@ This design creates an interactive, continuous play Snake game with simple yet e
        Python code uses the turtle graphics library to create a classic "Snake" game with a few custom features. Here’s a summary of how the game is designed and functions:
 
 # Running :
-       https://github.com/user-attachments/assets/575e7b96-a484-48aa-8354-23c95bf51dcd
+
+ https://github.com/user-attachments/assets/575e7b96-a484-48aa-8354-23c95bf51dcd
+
+ 
 # Game Area Setup:
     
     The game window is a 500x500-pixel square with a black background.
@@ -28,10 +31,3 @@ This design creates an interactive, continuous play Snake game with simple yet e
     Food is represented by a red circle and placed randomly on the screen.
     When the snake head collides with the food (based on proximity), the food relocates, and the snake grows by one segment.
     The function food_collision handles detecting when the snake eats the food.
-
-
-       https://github.com/user-attachments/assets/63c64879-e319-4858-afe5-25f61e694b94
-
-
-    
-
