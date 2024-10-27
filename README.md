@@ -29,5 +29,9 @@ This design creates an interactive, continuous play Snake game with simple yet e
     When the snake head collides with the food (based on proximity), the food relocates, and the snake grows by one segment.
     The function food_collision handles detecting when the snake eats the food.
 
+
+https://github.com/user-attachments/assets/63c64879-e319-4858-afe5-25f61e694b94
+
+
     
 
